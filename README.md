@@ -1,4 +1,8 @@
-# unoffical deepfake-detection-challenge repo
+## Welcome 👋 to the unoffical deepfake-detection-challenge repo
+
+This repopository is to help share resources and research with anyone interested in detecting deepfake videos and a starting place for those entering Facebook's $10 Million; Deepfake Detection Challenge. 
+
+Please feel free to contribute **research papers, github repos, research summaries, anything else!**.  Just make a PR with your update and I'll merge it asap ✅
 
 
 ## Facebook Offical Challenge Page
@@ -14,13 +18,13 @@ https://ai.facebook.com/blog/deepfake-detection-challenge/
 
 The goal of the challenge is to produce technology that everyone can use to better detect when AI has been used to alter a video in order to mislead the viewer. The Deepfake Detection Challenge will include a data set and leaderboard, as well as grants and awards, to spur the industry to create new ways of detecting and preventing media manipulated via AI from being used to mislead others. The governance of the challenge will be facilitated and overseen by the Partnership on AI’s new Steering Committee on AI and Media Integrity, which is made up of a broad cross-sector coalition of organizations including Facebook, WITNESS, Microsoft, and others in civil society and the technology, media, and academic communities.
 
-- Mike Schroepfer
+Written by Mike Schroepfer
 
+## Grading 
 
-## Goal
+Q: How will the challenge be judged a winner selected?  
 
-This repopository is to help share resources and research with anyone interested in detecting deepfake videos. Please contribute **research papers, github repos, research summaries, anything else!**.  Just make a PR with your update and I'll merge it asap ✅
-
+A: We are going to be providing a test mechanism that enables teams to score the effectiveness of their models, against one or more black box test sets from our founding partners.
 
 
 ## Current Research
