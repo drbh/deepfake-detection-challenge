@@ -3,7 +3,7 @@
 Hello all, 
 
 
-[![Deepfake Detection Challenge](hhttps://img.youtube.com/vi/wxsijKZRSCQ/0.jpg)](https://www.youtube.com/watch?v=wxsijKZRSCQ "Deepfake Detection Challenge")
+[![Deepfake Detection Challenge](https://img.youtube.com/vi/wxsijKZRSCQ/0.jpg)](https://www.youtube.com/watch?v=wxsijKZRSCQ "Deepfake Detection Challenge")
 
 
 This repopository is to help share resources and research with anyone interested in detecting deepfake videos.
